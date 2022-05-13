@@ -1,4 +1,4 @@
-﻿## 🙈🙉🙊 Hi there
+﻿## 👨‍🚀 Hi there
 I am a software engineer developing applications for 📲 Apple Platform.
 ## 👨‍💻 About me
 I started my programming adventures in early 2022. 
