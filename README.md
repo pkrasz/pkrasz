@@ -1,12 +1,14 @@
 ## 👨‍🚀 Hi there
 I am a software engineer developing applications for 📲 Apple Platform.
 ## 👨‍💻 About me
-My name is Paweł Kraszewski, and I am an ambitious and experienced iOS Developer. My expertise includes UIKit, SwiftUI, Combine, Coordinators, Git and other technologies. I learned under the guidance of an experienced iOS Lead, which allowed me to quickly grasp good programming patterns and maintain clean code.
-I find the process of finding elegant and simple solutions to complex problems to be truly beautiful, and take pride in writing clean and efficient code.  👌
+Senior iOS Developer with 4+ years of experience in native iOS development, focused on Swift,
+UIKit, SwiftUI, Combine, asynchronous programming and scalable app architecture. Experienced in
+MVVM-C, TCA, reusable UI components, REST API and Protocol Buﬀers integrations, map-based
+applications, App Store releases and TestFlight distribution.
 
-In the repository you can find two simple apps I created when I started working as a Junior iOS developer, so they don't represent my current level of coding, but they can demonstrate the cleanliness and organization of the code I use on a daily basis. [repositories](https://github.com/pkrasz?tab=repositories).
+Product-oriented developer with experience in building features from concept to release, improving
+legacy code, designing maintainable architecture and working on user-facing mobile products.
+Independently designed, developed and released MediBoo, a family medical journal app built with
+SwiftUI and TCA.
 
-Before working with code, I worked in 🍽🍷 fine-dinig restaurant as an sommelier assistant, in a 🏙 corporation in sales, and ran my own 👔 business. 
-All of my work experiences taught me how to build customer relationships and run how an effective sales process, among other things.
-
-As a hobby, I've always really enjoyed 👨‍🎨 Graphic design and have worked with programs such a GIMP, Adobe (Illustrator, Photoshop, XD).
+👨‍🎨 Interested in classic Disney comics, especially Scrooge McDuck stories, world cuisine and wine culture.
